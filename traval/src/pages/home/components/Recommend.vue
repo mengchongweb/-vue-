@@ -17,28 +17,12 @@
 <script>
 export default {
   name: 'HomeRecommend',
+  props: {
+    recommendList: Array
+  },
   data () {
     return {
-      recommendList: [
-        {
-          id: '001',
-          imgUrl: 'https://imgs.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg',
-          title: '大连圣亚海洋世界',
-          desc: '将壮观诠释到完美，将梦想展示给世界'
-        },
-        {
-          id: '002',
-          imgUrl: 'https://imgs.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg',
-          title: '大连圣亚海洋世界',
-          desc: '将壮观诠释到完美，将梦想展示给世界'
-        },
-        {
-          id: '003',
-          imgUrl: 'https://imgs.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg',
-          title: '大连圣亚海洋世界',
-          desc: '将壮观诠释到完美，将梦想展示给世界'
-        }
-      ]
+
     }
   },
   components: {
