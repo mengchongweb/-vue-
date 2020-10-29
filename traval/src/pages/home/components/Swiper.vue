@@ -26,11 +26,11 @@ export default {
       swiperList: [
         {
           id: '0',
-          imgUrl: 'https://s1.veryins.com/image/v/t51.2885-15/sh0.08/e35/c0.156.1249.1249a/s640x640/122850755_1097654547304449_2010801854177486625_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=7Traa9rQdagAX95V5XU&oh=9cb8100fd6a60775db8004b0b3636291&oe=5FC208C5'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1802/e3/62ce7362ca051d02.jpg_640x200_6db551b7.jpg'
         },
         {
           id: '1',
-          imgUrl: 'https://s3.veryins.com/image/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/122812327_1004144540087921_6904608624888708573_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=JkJ3fAvxfjoAX-Htuxt&oh=ce5a8c5be84fb8319b79ba2c46c2a03a&oe=5FC0C3A1'
+          imgUrl: 'http://img1.qunarzz.com/piao/fusion/1801/93/ce59d182aca07102.jpg_640x200_ba03d44c.jpg'
         }
       ]
     }
